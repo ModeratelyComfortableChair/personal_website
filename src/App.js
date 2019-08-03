@@ -1,10 +1,10 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Poster from "./components/poster";
+import HomePage from "./components/homepage";
 
 function App() {
-	return <Poster />;
+	return <HomePage />;
 }
 
 export default App;
