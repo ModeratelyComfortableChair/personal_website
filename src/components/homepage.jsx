@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import NavBar from "./navbar";
-import Carousel from "./carousel";
+import JumboTron from "./jumbotron";
 
 class HomePage extends Component {
 	state = {};
@@ -8,7 +8,7 @@ class HomePage extends Component {
 		return (
 			<div>
 				<NavBar />
-				<Carousel />
+				<JumboTron />
 			</div>
 		);
 	}
