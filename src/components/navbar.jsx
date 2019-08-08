@@ -51,6 +51,11 @@ class NavBar extends Component {
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#">
+								Timeline
+							</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">
 								About Me
 							</a>
 						</li>
