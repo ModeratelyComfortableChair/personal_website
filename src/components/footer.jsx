@@ -4,8 +4,8 @@ class Footer extends Component {
 	state = {};
 	render() {
 		return (
-			<footer class="container">
-				<p class="float-right">
+			<footer className="container">
+				<p className="float-right">
 					<a href="#">Back to top</a>
 				</p>
 				<p>2019 Jerome Marfleet</p>
